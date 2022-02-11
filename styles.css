@@ -11,6 +11,10 @@ ol {
     margin: auto;
 }
 
+.title {
+        font-family: Calibri;   
+}
+
 ul {
     list-style-type: none;
 }
